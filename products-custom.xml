@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0">
+  <channel>
+    <title>Celebird RSS 2.0 data feed template products-custom</title>
+    <description>Celebird data feed template.</description>
+    <link>http://www.celebird.com</link>
+    <item>
+      <g:id>celebird-eg-custom-001</g:id>
+      <title>Handcrafted Custom Ladies Handbag</title>
+      <description>Handmade in our home, ladies leather handbag in blue and gray.</description>
+      <link>http://www.example.com/shop?products=custom&amp;id=celebird-eg-custom-001&amp;country=US</link>
+      <g:price>923.95 USD</g:price>
+      <g:condition>new</g:condition>
+      <g:availability>preorder</g:availability>
+      <g:image_link>http://www.example.com/image/handbag-blue-gray.png</g:image_link>
+      <g:tax>
+        <g:country>US</g:country>
+        <g:region>CA</g:region>
+        <g:rate>7.25</g:rate>
+        <g:tax_ship>y</g:tax_ship>
+      </g:tax>
+      <g:shipping_weight>8 oz</g:shipping_weight>
+      <g:shipping>
+        <g:country>US</g:country>
+        <g:price>0.00 USD</g:price>
+      </g:shipping>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Handbags, Wallets &amp; Cases &gt; Handbags</g:google_product_category>
+      <g:product_type>accoutrements &gt; handmade &gt; pocketbooks</g:product_type>
+      <g:color>Blue&#47;Gray</g:color>
+      <g:gender>female</g:gender>
+      <g:age_group>adult</g:age_group>
+      <g:identifier_exists>FALSE</g:identifier_exists>
+    </item>
+  </channel>
+</rss>
